@@ -1,0 +1,26 @@
+<!doctype html> 
+
+<html>
+<head>
+<title> Petite Pienture </title>
+</head>
+
+<body>
+
+<h1> About </h1>
+
+<p> Petite Pienture is a small owned buiness. Specializing in handmade paintings, that mostly consists of cityscapes, florals, and other colorful items that catches anyones eyes.  </p>
+
+<h2> Paintings </h2>
+
+<p> In this section is where the painints images will go with prices </p>
+
+<h2> Custom Requests </h2>
+
+<p> In this section I would like to build a request page for any custom paintings </p>
+
+</body>
+
+
+
+</html>
